@@ -24,7 +24,7 @@
 	&__img {
 		height: 100%;
 		transform: translateX(-4rem) scale(1.4);
-		transition: all .5s;
+		transition: all .3s;
 	}
 
 	&__text {
@@ -35,7 +35,7 @@
 		position: absolute;
 		top: 50%;
 		left: 50%;
-		transform: translate(-50%, 20%);
+		transform: translate(-50%, 0);
 		color: $color-white;
 		font-size: 1.7rem;
 		text-transform: uppercase;
